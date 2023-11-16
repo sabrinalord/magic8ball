@@ -209,11 +209,3 @@ Media Queries
 		font-size:15rem;
 	}
 }
-
-
-@media (max-width: 480px) {
-	.wrapper_8ball {
-		display:none;
-	}
-	
-}
